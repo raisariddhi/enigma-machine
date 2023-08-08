@@ -38,24 +38,24 @@ Here's an example of using the Enigma machine for encryption and decryption:
 
 ### Encryption
 
-Message: COMPUTER
-Rotors: 66
-Rotations: 0
+Message: COMPUTER <br />
+Rotors: 66 <br />
+Rotations: 0 <br />
 
 Encrypted message: MWHKCAZB
 
 ### Decryption
 
-Message: MWHKCAZB
-Rotors: 66
-Rotations: 0
+Message: MWHKCAZB <br />
+Rotors: 66 <br />
+Rotations: 0 <br />
 
 Decrypted message: COMPUTER
 
 ### Test Example
 
-Enter the message to be encrypted or decrypted: COMPUTER SCIENCE
-Which rotors will be used to encrypt the message: 24
-Enter the number of rotations to apply to the encryption rotors: 5
-The encrypted message is: NCLJMABF XNZBTNB
-The decrypted message is: COMPUTER SCIENCE
+Enter the message to be encrypted or decrypted: COMPUTER SCIENCE <br />
+Which rotors will be used to encrypt the message: 24 <br />
+Enter the number of rotations to apply to the encryption rotors: 5 <br />
+The encrypted message is: NCLJMABF XNZBTNB <br />
+The decrypted message is: COMPUTER SCIENCE <br />
